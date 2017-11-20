@@ -15,6 +15,8 @@ Jan Bevers
 3. Interesting for Kunstmaan
 4. Discussions / questions
 
+<iframe src="https://giphy.com/embed/WsxzPQfmXYVX2" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ---
 
 # SMACCS workshop
@@ -96,7 +98,6 @@ Tools which can help:
 7. Try avoiding too generic names for selectors (makes refactoring very hard) eg info, component, nav
 8. Prefix selectors which are from a library
 
-
 ---
 
 # SMACCS Tips & tricks
@@ -141,16 +142,14 @@ Use child selectors to avoid unwanted side effects
 
 # Conference Day 1
 
-![Beer1](./images/beer1.jpeg)
-![Beer2](./images/beer2.jpeg)
+![Beer drinking](https://media.giphy.com/media/mOOuUUIEEgq6A/giphy.gif)
 ![Beer3](./images/beer3.jpg)
 
 ---
 
 # Conference Day 2
 
-![Beer1](./images/beer1.jpeg)
-![Beer2](./images/beer2.jpeg)
+![Beer drinking](https://media.giphy.com/media/mOOuUUIEEgq6A/giphy.gif)
 ![Beer3](./images/beer3.jpg)
 
 ---
@@ -173,7 +172,7 @@ Paula Scher talked about her career and which roles she had been doing during th
 
 ---
 
-# Conference (Nerds)
+# Conference (Developers)
 
 ## Styling Hillary - [Video](https://vimeo.com/241705921)
 
@@ -191,7 +190,7 @@ Nice talk about the fact that browsers need to get faster and faster.
 
 ---
 
-# Conference (Designers and Nerds) - Accessibility
+# Conference (Designers and Developers) - Accessibility
 
 Out with accessibility - In with inclusive design - [Video](https://vimeo.com/241688610)<br />
 Exclusive Design - [Video](https://vimeo.com/241883675)
@@ -202,7 +201,7 @@ Both talks where about accessibility and improving the experience for people wit
 
 ---
 
-# Conference (Designers and Nerds) - Design Systems
+# Conference (Designers and Developers) - Design Systems
 
 A design system is a system where UX and Development work together on building styleguides.
 Mainly important when doing product development where experience should be simular accross UIs. It is also about reducing costs.
@@ -211,24 +210,42 @@ There were 2 talks about this. I like the last on `From Purpose to Patterns` bes
 
 ---
 
-# Conference (Designers and Nerds) - Design Systems
+# Conference (Designers and Developers) - Design Systems
 
 ## Loose vs Strict system 
-Loose means there is a very simple process, strict the opposite. 
+
+Loose means there is a very simple process, strict the opposite.<br />
 Where loose can end up into a bloated system (many simular / slightly different implementations) and strict can end up in a slow development process.
 
 ## Centralised vs Distributed
 
-Where central means dedicated people on developing the designs / libraries, distributed means it's like an internal open source system.
+Where central means dedicated people on developing the designs / libraries, distributed means it's like an internal open source system.<br />
 Central has a clear responsibility, where distributed fosters more innovation as you have more different minds.
 
 ---
 
 # Conference - Nice to know
 
+## Crazy shit
+
 I loved the presentation from Joshua Davis who creates animations for music (eg Super Bowl). This guy actually makes money doing crazy shit :-)
 
-There was also a talk about LinkedIn which is more focusing on people with suits (linear career evolution). She was working on a different platform which was focusing on project experiences and sharing knowledge who you worked with rather then a job title evolution. Also nice was that she mentioned that neurodiversity is important.
+<iframe src="https://giphy.com/embed/26BRLsZRbyHCxioFO" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+---
+
+# Conference - Nice to know
+
+## Creative Ambition 
+
+In the talk it compared LinkedIn which is more focusing on people with suits (linear career evolution),<br />
+with a new social network for professionals she was working on. This platform was focusing on project experiences and sharing knowledge who you worked with rather then a job title evolution. Which is more relevant these days as people change jobs more often and experience doesn't necessarely define your skills / how good you are.
+
+Also nice was that she mentioned that neurodiversity is important (I'll show you an image on my google drive about this).
+
+---
+
+# Conference - Nice to know
 
 Have a glory wall to celebrate wins!
 
@@ -246,6 +263,7 @@ There was a very cool DJ!
 6. `CssJanus` to do right to left (it actually swaps all css properties, eg margin-left becomes margin-right)
 7. Use css analysers ([csscss](https://github.com/zmoazeni/csscss), [Parker](https://github.com/Katiefenn/Parker), [analyze-css](https://github.com/macbre/analyze-css))
 8. `window.requestIdleCallback`
+9. Add type safety to CSS using [TypeStyle](https://egghead.io/lessons/css-add-type-safety-to-css-using-typestyle)
 
 ---
 
@@ -253,3 +271,4 @@ There was a very cool DJ!
 
 Still awake?
 
+<iframe src="https://giphy.com/embed/BtMgDj2mZLzws" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
